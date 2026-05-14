@@ -17,8 +17,8 @@ Private active development. Public repo contains only a safe project overview.
 
 ## Activity
 
-- Last public activity update: 2026-05-06 18:51 Europe/Madrid
-- Local private source exists. Safe file-category scan: 111 non-sensitive files (python: 46, docs: 8, frontend: 31, config: 7, other: 19).
+- Last public activity update: 2026-05-14 02:34 Europe/Madrid
+- Local private source exists. Safe file-category scan: 112 non-sensitive files (python: 46, docs: 8, frontend: 30, config: 7, other: 21).
 
 ## Repository policy
 
